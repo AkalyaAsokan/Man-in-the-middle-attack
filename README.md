@@ -6,10 +6,10 @@ Scapy is is a packet manipulation tool for computer networks, written in Python.
 
 Above all, a python program that performs the following is written:
 
-packet sniffing
-packet injection
-packet manipulation
-ARP spoofing
-OS Fingerprinting (Passive and Active)
-other passive or active attacks
-other MiTM attacks
+1. packet sniffing
+2. packet injection
+3. packet manipulation
+4. ARP spoofing
+5. OS Fingerprinting (Passive and Active)
+6. other passive or active attacks
+7. other MiTM attacks
